@@ -48,13 +48,33 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Publicando Seu Portfólio Profissional no GitHub Pages",
+      "url": "https://github.com/enimatos/js-developer-portfolio",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Construindo uma Pokédex com JavaScript",
+      "url": "https://github.com/enimatos/js-developer-pokedex",
+      "github": true
+    },
+    {
+      "name": "Primeiro Portfólio - Oracle-One",
+      "url": "https://portfolio-nine-bay-27.vercel.app/",
+      "github": false
+    },
+    {
+      "name": "D3c0dif!q - Oracle-One",
+      "url": "https://decodificador-oracle-one-bay.vercel.app/",
+      "github": false
+    },
+    {
+      "name": "Jogo do Número Secreto",
+      "url": "https://jogo-do-numero-secreto-weld-mu.vercel.app/",
+      "github": false
+    },
+    {
+      "name": "Recriando home do Netflix. Projeto DIO.",
+      "url": "https://github.com/enimatos/Recriando_NetflixHome_DIO",
       "github": true
     }
   ],
