@@ -1,27 +1,15 @@
 {
   "name": "Elaine Matos",
   "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Aspirante a Desenvolvedora Front End Jr",
+  "job": "Desenvolvedora Front End Jr",
   "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "phone": "(11) 99770-1889",
+  "email": "enimatos@outlook.com",
   "skills": {
     "hardSkills": [
       {
         "name": "Nodejs",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
-      },
-      {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
-      },
-      {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
-      },
-      {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
       },
       {
         "name": "Mongodb",
