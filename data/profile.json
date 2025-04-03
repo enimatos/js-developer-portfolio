@@ -1,18 +1,10 @@
 {
   "name": "Elaine Matos",
-<<<<<<< HEAD
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Desenvolvedora Front End Jr",
-  "location": "São Paulo - SP",
-  "phone": "(11) 99770-1889",
-  "email": "enimatos@outlook.com",
-=======
   "photo": "https://avatars.githubusercontent.com/u/69444237?v=4",
   "job": "Desenvolvedora Front End Jr",
   "location": "São Paulo - SP",
   "phone": "(11) 99770-1889",
-  "email": "ejfmatos@outlook.com",
->>>>>>> aa97705da813997d9ceddd2ca78a39c869acf84d
+  "email": "enimatos@outlook.com",
   "skills": {
     "hardSkills": [
       {
