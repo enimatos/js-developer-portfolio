@@ -9,17 +9,29 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/enimatos/js-developer-portfolio/refs/heads/main/data/imgs/html.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/enimatos/js-developer-portfolio/refs/heads/main/data/imgs/css.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
-      }
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/enimatos/js-developer-portfolio/refs/heads/main/data/imgs/js.png"
+      },
+      {
+        "name": "NodeJs",
+        "logo": "https://raw.githubusercontent.com/enimatos/js-developer-portfolio/refs/heads/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "VSCode",
+        "logo": "https://raw.githubusercontent.com/enimatos/js-developer-portfolio/refs/heads/main/data/imgs/vscode.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/enimatos/js-developer-portfolio/refs/heads/main/data/imgs/github.png"
+      }      
     ],
     "softSkills": [
       "Empatia",
