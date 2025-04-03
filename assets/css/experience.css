@@ -8,6 +8,7 @@
 
 .experience li {
     margin-bottom: 1rem;
+    text-align: justify;
 }
 
 .experience li .period {
@@ -25,4 +26,13 @@
     background-size: contain;
     background-image: url('../img/icons/calendar.svg');
     margin-right: .5rem;
+}
+
+
+
+@media only screen and (min-width: 768px) {
+    .experience {
+        max-width: 700px;
+    }
+
 }
