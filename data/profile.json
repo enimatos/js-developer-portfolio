@@ -48,31 +48,66 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Publicando Seu Portfólio Profissional no GitHub Pages",
+      "url": "https://github.com/enimatos/js-developer-portfolio",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Construindo uma Pokédex com JavaScript",
+      "url": "https://github.com/enimatos/js-developer-pokedex",
+      "github": true
+    },
+    {
+      "name": "Primeiro Portfólio - Oracle-One",
+      "url": "https://portfolio-nine-bay-27.vercel.app/",
+      "github": false
+    },
+    {
+      "name": "D3c0dif!q - Oracle-One",
+      "url": "https://decodificador-oracle-one-bay.vercel.app/",
+      "github": false
+    },
+    {
+      "name": "Jogo do Número Secreto",
+      "url": "https://jogo-do-numero-secreto-weld-mu.vercel.app/",
+      "github": false
+    },
+    {
+      "name": "Recriando home do Netflix. Projeto DIO.",
+      "url": "https://github.com/enimatos/Recriando_NetflixHome_DIO",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": " Asssitente de monitoramento / O2B",
+      "period": "Set 2024 - Mar 2025",
+      "description": "Monitoramento contínuo de alarmes por meio do Datadog, garantindo a rápida identificação de incidentes. Acionamento da equipe técnica responsável para a resolução de problemas, assegurando a estabilidade dos sistemas. Além disso, participação em salas de crise, contribuindo para a inclusão de novas equipes  e atualizão dos clientes via StatusPage."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Analista de Suporte TI I / Cleartech",
+      "period": "Set 2021 - Jun 2023",
+      "description": "Responsável pelo atendimento de chamadas utilizando sistemas CRM, Remedy e Jira Service Desk, prestando suporte técnico tanto por telefone quanto por e-mail. Manutenção de usuários em sistemas de telecomunicações, garantindo o correto funcionamento dos acessos. Além disso, monitoramento de alarmes via Zabbix, acionando equipes externas e escalonando incidentes conforme necessário. Minha rotina incluia a execução de checklists diários e a passagem de turno, assegurando a continuidade e a eficiência das operações."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Analista de Monitoramento e Produção / Connectcom",
+      "period": "Jan 2021 - Set 2021",
+      "description": "Montagem e liberação de processos, realizando o monitoramento de links e a execução de trabalhos críticos para garantir a operação contínua dos sistemas. Responsável pela programação de backups, restauração de dados e controle de acesso físico ao DataCenter."
+    },
+    {
+      "name": "Analista Administrativo Pleno / Indra Brasil",
+      "period": "Ago 2018 - Jan 2020",
+      "description": "Gestão de vagas e no controle de ponto, facilitação a integração de novos colaboradores e garantia de uma comunicação eficiente entre os departamentos. Responsável pela solicitação de equipamentos, administração de benefícios e realização de ajustes de ponto nos sistemas ADP e Norber, assegurando a conformidade e o bom funcionamento dos processos internos."
+    },
+    {
+      "name": "Operadora de Monitoramento Jr / Indra Brasil",
+      "period": "Nov 2017 - Ago 2018",
+      "description": "Monitoramento de operações em ambientes SAP, efetuando checklists de validação nos ambientes DEV, QA e PRD para garantir a conformidade e a disponibilidade dos sistemas. Acompanhamento e monitoramento de backups, escalonamento de incidentes quando necessário."
+    },
+    {
+      "name": "Analista de Tempo Real / Sitel Brasil (Banco Santander)",
+      "period": "Nov 2015 - Mar 2017",
+      "description": "Monitoramento de links e eventos críticos por meio das plataformas Big Data View e Genesys SCI, garantindo a estabilidade das operações. Atuação em salas de crise para acionamento de equipe tecnica e atualização das atividades efetuadas do Remedy em tempo real. Atendimento as requisições do Call Center Gesti, gerenciando acessos e criando grupos nas plataformas Avaya e Genesys, e realizando o resgate de ligações por meio das ferramentas Nice e Eureka."
     }
   ]
 }
