@@ -38,5 +38,9 @@ a:hover {
         padding: 1rem 2rem;
         
     }
+    
+    body{
+        padding: 1rem;
+    }
 
 }
