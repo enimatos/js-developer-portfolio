@@ -35,6 +35,8 @@ a:hover {
     .main {
         max-width: 1024px;
         margin: 1rem auto;
+        padding: 1rem 2rem;
+        
     }
 
 }
