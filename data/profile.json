@@ -47,6 +47,11 @@
     "Espanhol (básico)"
   ],
   "portfolio": [
+     {
+      "name": "Criando um Jogo do Detona Ralph com JavaScript",
+      "url": "https://github.com/enimatos/Recriando_NetflixHome_DIO",
+      "github": true
+    },
     {
       "name": "Publicando Seu Portfólio Profissional no GitHub Pages",
       "url": "https://github.com/enimatos/js-developer-portfolio",
@@ -76,7 +81,7 @@
       "name": "Recriando home do Netflix. Projeto DIO.",
       "url": "https://github.com/enimatos/Recriando_NetflixHome_DIO",
       "github": true
-    }
+    }   
   ],
   "professionalExperience": [
     {
