@@ -52,6 +52,16 @@
       "url": "https://github.com/enimatos/js-developer-portfolio",
       "github": true
     },
+     {
+      "name": "Criando um Jogo do Detona Ralph com JavaScript",
+      "url": "https://enimatos.github.io/dio-detona-ralph-js/",
+      "github": true
+    },
+    {
+      "name": "Criação de um jogo da memória",
+      "url": "https://github.com/enimatos/jogo-da-memoria/tree/nova-entrega",
+      "github": true
+    },
     {
       "name": "Construindo uma Pokédex com JavaScript",
       "url": "https://github.com/enimatos/js-developer-pokedex",
@@ -73,10 +83,10 @@
       "github": false
     },
     {
-      "name": "Recriando home do Netflix. Projeto DIO.",
-      "url": "https://github.com/enimatos/Recriando_NetflixHome_DIO",
+      "name": "Yu-Gi-Oh | Jo-ken-po Edition",
+      "url": "https://github.com/enimatos/js-yugioh-assets/tree/versao-desafio",
       "github": true
-    }
+    }   
   ],
   "professionalExperience": [
     {
@@ -93,21 +103,6 @@
       "name": "Analista de Monitoramento e Produção / Connectcom",
       "period": "Jan 2021 - Set 2021",
       "description": "Montagem e liberação de processos, realizando o monitoramento de links e a execução de trabalhos críticos para garantir a operação contínua dos sistemas. Responsável pela programação de backups, restauração de dados e controle de acesso físico ao DataCenter."
-    },
-    {
-      "name": "Analista Administrativo Pleno / Indra Brasil",
-      "period": "Ago 2018 - Jan 2020",
-      "description": "Gestão de vagas e no controle de ponto, facilitação a integração de novos colaboradores e garantia de uma comunicação eficiente entre os departamentos. Responsável pela solicitação de equipamentos, administração de benefícios e realização de ajustes de ponto nos sistemas ADP e Norber, assegurando a conformidade e o bom funcionamento dos processos internos."
-    },
-    {
-      "name": "Operadora de Monitoramento Jr / Indra Brasil",
-      "period": "Nov 2017 - Ago 2018",
-      "description": "Monitoramento de operações em ambientes SAP, efetuando checklists de validação nos ambientes DEV, QA e PRD para garantir a conformidade e a disponibilidade dos sistemas. Acompanhamento e monitoramento de backups, escalonamento de incidentes quando necessário."
-    },
-    {
-      "name": "Analista de Tempo Real / Sitel Brasil (Banco Santander)",
-      "period": "Nov 2015 - Mar 2017",
-      "description": "Monitoramento de links e eventos críticos por meio das plataformas Big Data View e Genesys SCI, garantindo a estabilidade das operações. Atuação em salas de crise para acionamento de equipe tecnica e atualização das atividades efetuadas do Remedy em tempo real. Atendimento as requisições do Call Center Gesti, gerenciando acessos e criando grupos nas plataformas Avaya e Genesys, e realizando o resgate de ligações por meio das ferramentas Nice e Eureka."
     }
   ]
 }
