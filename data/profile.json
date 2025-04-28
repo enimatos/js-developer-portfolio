@@ -88,28 +88,6 @@
       "github": true
     }   
   ],
-  "formations": [
-    {
-      "name": "MBA Executivo em Auditoria, Gerenciamento de Riscos e Compliance",
-      "institution": "Universidade de Santo Amaro (Unisa)",
-      "period": "2017 - 2018"
-    },
-    {
-      "name": "Tecnologia em Processamento de Dados",
-      "institution": "Universidade Bandeirante de São Paulo (Uniban)",
-      "period": "2006 - 2008"
-    }
-  ],
-  "certifications": [
-    {
-      "name": "AWS Solutions Architect - Associate (SAA-C03)",
-      "period": "2024"
-    },
-    {
-      "name": "AWS Cloud Practitioner",
-      "period": "2023"
-    }
-  ],
   "professionalExperience": [
     {
       "name": " Asssitente de monitoramento / O2B",
