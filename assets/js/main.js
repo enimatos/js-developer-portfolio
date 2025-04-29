@@ -79,7 +79,7 @@ function updateCertification(profileData) {
 
 function updateFormacaoAcademica(profileData) {
     const formacaoAcademica = document.getElementById('profile.formacaoAcademica')
-    formacaoAcademica.innerHTML = profileData.formacao.map(formacao => {
+    formacaoAcademica.innerHTML = profileData.formacaoAcademica.map(formacao => {
         return `
             <li>
                 <h3 class="title">${formacao.name}</h3>
