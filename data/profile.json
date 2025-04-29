@@ -90,11 +90,11 @@
   ],
   "certifications": [
     {
-      "name": "Certificação em AWS Cloud Practitioner",
+      "name": "AWS Cloud Practitioner",
       "period": "2023"
     },
     {
-      "name": "Certificação em AWS Solutions Architect - Associate (SAA-C03)",
+      "name": "AWS Solutions Architect - Associate (SAA-C03)",
       "period": "2024"
     }    
   ],
@@ -102,17 +102,17 @@
     {
       "name": "Asssitente de monitoramento / O2B",
       "period": "Set 2024 - Mar 2025",
-      "description": "Monitoramento contínuo de alarmes por meio do Datadog, garantindo a rápida identificação de incidentes. Acionamento da equipe técnica responsável para a resolução de problemas, assegurando a estabilidade dos sistemas. Além disso, participação em salas de crise, contribuindo para a inclusão de novas equipes e atualizão dos clientes via StatusPage."
+      "description": "Monitoramento de eventos no Datadog, encaminhamento de erros sistêmicos para equipes internas e acompanhamento de melhoria e identificação de erro em sala de crise."
     },
     {
       "name": "Analista de Suporte TI I / Cleartech",
       "period": "Set 2021 - Jun 2023",
-      "description": "Responsável pelo atendimento de chamadas utilizando sistemas CRM, Remedy e Jira Service Desk, prestando suporte técnico tanto por telefone quanto por e-mail. Manutenção de usuários em sistemas de telecomunicações, garantindo o correto funcionamento dos acessos. Além disso, monitoramento de alarmes via Zabbix, acionando equipes externas e escalonando incidentes conforme necessário. Minha rotina incluia a execução de checklists diários e a passagem de turno, assegurando a continuidade e a eficiência das operações."
+      "description": "Monitoramento de alarmes via Zabbix  para identificação de erros sistêmicos, encaminhamento de demandas do Jira Service Desk para equipes responsáveis, manutenção de usuários em sistemas de comunicações e execução de demandas internas (checklists e passagem de turno), assegurando a continuidade e a eficiência das operações."
     },
     {
       "name": "Analista de Monitoramento e Produção / Connectcom",
       "period": "Jan 2021 - Set 2021",
-      "description": "Montagem e liberação de processos, realizando o monitoramento de links e a execução de trabalhos críticos para garantir a operação contínua dos sistemas. Responsável pela programação de backups, restauração de dados e controle de acesso físico ao DataCenter."
+      "description": "Montagem e liberação de processos com o Unisys 2200,  monitoramento de links,  programação de backups, restauração de dados com o Commvault, e controle de acesso físico ao DataCenter."
     }
   ],
   "formacaoAcademica": [
