@@ -67,9 +67,14 @@ function updateProfessionalExperience(profileData) {
 
 function updateCertification(profileData) {
     const certifications = document.getElementById('profile-certifications');
-    certifications.innerHTML = profileData.certifications
-      .map(certification => `<li>${certification}</li>`)
-      .join('');
+    certifications.innerHTML = profileData.certifications.map(certification => {
+        return `
+            <li>
+                <h3 class="title">${certification.name}</h3>
+                <p class="period">${certification.period}</p>
+            </li>
+        `
+    }).join('')
 }
 
 (async () => {

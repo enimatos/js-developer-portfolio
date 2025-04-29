@@ -89,8 +89,14 @@
     }
   ],
   "certifications": [
-    "Certificação em AWS Cloud Practitioner",
-    "Certificação em AWS Solutions Architect - Associate (SAA-C03)"
+    {
+      "name": "Certificação em AWS Cloud Practitioner",
+      "period": "2014"
+    },
+    {
+      "name": "Certificação em AWS Solutions Architect - Associate (SAA-C03)",
+      "period": "2014"
+    }    
   ],
   "professionalExperience": [
     {
