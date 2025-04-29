@@ -5,7 +5,7 @@
   "location": "São Paulo - SP",
   "phone": "(11) 99770-1889",
   "email": "ejfmatos@outlook.com",
-  "linkedin": "linkedin.com/in/elainejfmatos/",
+  "linkedin": "https://www.linkedin.com/in/elainejfmatos/",
   "skills": {
     "hardSkills": [
       {
@@ -31,7 +31,7 @@
       {
         "name": "GitHub",
         "logo": "https://raw.githubusercontent.com/enimatos/js-developer-portfolio/refs/heads/main/data/imgs/github.png"
-      }      
+      }
     ],
     "softSkills": [
       "Empatia",
@@ -52,7 +52,7 @@
       "url": "https://github.com/enimatos/js-developer-portfolio",
       "github": true
     },
-     {
+    {
       "name": "Criando um Jogo do Detona Ralph com JavaScript",
       "url": "https://enimatos.github.io/dio-detona-ralph-js/",
       "github": true
@@ -86,13 +86,17 @@
       "name": "Yu-Gi-Oh | Jo-ken-po Edition",
       "url": "https://github.com/enimatos/js-yugioh-assets/tree/versao-desafio",
       "github": true
-    }   
+    }
+  ],
+  "certifications": [
+    "Certificação em AWS Cloud Practitioner",
+    "Certificação em AWS Solutions Architect - Associate (SAA-C03)"
   ],
   "professionalExperience": [
     {
-      "name": " Asssitente de monitoramento / O2B",
+      "name": "Asssitente de monitoramento / O2B",
       "period": "Set 2024 - Mar 2025",
-      "description": "Monitoramento contínuo de alarmes por meio do Datadog, garantindo a rápida identificação de incidentes. Acionamento da equipe técnica responsável para a resolução de problemas, assegurando a estabilidade dos sistemas. Além disso, participação em salas de crise, contribuindo para a inclusão de novas equipes  e atualizão dos clientes via StatusPage."
+      "description": "Monitoramento contínuo de alarmes por meio do Datadog, garantindo a rápida identificação de incidentes. Acionamento da equipe técnica responsável para a resolução de problemas, assegurando a estabilidade dos sistemas. Além disso, participação em salas de crise, contribuindo para a inclusão de novas equipes e atualizão dos clientes via StatusPage."
     },
     {
       "name": "Analista de Suporte TI I / Cleartech",

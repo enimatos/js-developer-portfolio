@@ -1,4 +1,3 @@
-
 function updateProfileInfo(profileData) {
     const photo = document.getElementById('profile.photo')
     photo.src = profileData.photo
@@ -66,13 +65,20 @@ function updateProfessionalExperience(profileData) {
     }).join('')
 }
 
+function updateCertification(profileData) {
+    const certifications = document.getElementById('profile-certifications');
+    certifications.innerHTML = profileData.certifications
+      .map(certification => `<li>${certification}</li>`)
+      .join('');
+}
+
 (async () => {
-    const profileData = await fetchProfileData()
-    updateProfileInfo(profileData)
-    updateSoftSkills(profileData)
-    updateHardSkills(profileData)
-    updateLanguages(profileData)
-    updatePortfolio(profileData)
-    updateProfessionalExperience(profileData)
-    updateLanguages(profileData)
-})()
+    const profileData = await fetchProfileData();
+    updateProfileInfo(profileData);
+    updateSoftSkills(profileData);
+    updateHardSkills(profileData);
+    updateLanguages(profileData);
+    updatePortfolio(profileData);
+    updateCertification(profileData); // Adicionada esta linha
+    updateProfessionalExperience(profileData);
+  })();

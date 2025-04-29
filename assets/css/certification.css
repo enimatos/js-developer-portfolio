@@ -1,0 +1,8 @@
+.certification {
+    list-style-type: none;
+    padding-left: 20px;
+  }
+  
+  .certification li {
+    margin-bottom: 8px;
+  }
