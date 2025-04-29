@@ -77,6 +77,19 @@ function updateCertification(profileData) {
     }).join('')
 }
 
+function updateFormacaoAcademica(profileData) {
+    const formacaoAcademica = document.getElementById('profile.formacaoAcademica')
+    formacaoAcademica.innerHTML = profileData.formacao.map(formacao => {
+        return `
+            <li>
+                <h3 class="title">${formacao.name}</h3>
+                <p class="period">${formacao.period}</p>
+                <p>${formacao.institution}</p>
+            </li>
+        `
+    }).join('')
+}
+
 (async () => {
     const profileData = await fetchProfileData();
     updateProfileInfo(profileData);
@@ -86,4 +99,5 @@ function updateCertification(profileData) {
     updatePortfolio(profileData);
     updateCertification(profileData); // Adicionada esta linha
     updateProfessionalExperience(profileData);
+    updateFormacaoAcademica(profileData) ;
   })();

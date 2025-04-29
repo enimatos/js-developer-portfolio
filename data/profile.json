@@ -90,13 +90,17 @@
   ],
   "certifications": [
     {
+      "name": "AWS Solutions Architect - Associate (SAA-C03)",
+      "period": "2024"
+    },
+    {
       "name": "AWS Cloud Practitioner",
       "period": "2023"
     },
     {
-      "name": "AWS Solutions Architect - Associate (SAA-C03)",
-      "period": "2024"
-    }    
+      "name": "Azure SC-900",
+      "period": "2023"
+    }   
   ],
   "professionalExperience": [
     {
@@ -113,6 +117,18 @@
       "name": "Analista de Monitoramento e Produção / Connectcom",
       "period": "Jan 2021 - Set 2021",
       "description": "Montagem e liberação de processos, realizando o monitoramento de links e a execução de trabalhos críticos para garantir a operação contínua dos sistemas. Responsável pela programação de backups, restauração de dados e controle de acesso físico ao DataCenter."
+    }
+  ],
+  "formacaoAcademica": [
+    {
+      "name": "MBA Executivo em Auditoria, Gerenciamento de Riscos e Compliance",
+      "period": "Nov 2017 - Dez 2018",
+      "institution": " Universidade de Santo Amaro (Unisa)."
+    },
+    {
+      "name": "Tecnologia em Processamento de Dados",
+      "period": "Fev 2006 - Dez 2008",
+      "institution": "Universidade Bandeirante de São Paulo (Uniban)"
     }
   ]
 }
