@@ -90,17 +90,13 @@
   ],
   "certifications": [
     {
-      "name": "AWS Solutions Architect - Associate (SAA-C03)",
+      "name": "Certificação em AWS Cloud Practitioner",
+      "period": "2023"
+    },
+    {
+      "name": "Certificação em AWS Solutions Architect - Associate (SAA-C03)",
       "period": "2024"
-    },
-    {
-      "name": "AWS Cloud Practitioner",
-      "period": "2023"
-    },
-    {
-      "name": "Azure SC-900",
-      "period": "2023"
-    }   
+    }    
   ],
   "professionalExperience": [
     {
