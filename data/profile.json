@@ -59,18 +59,13 @@
     },
     {
       "name": "Criação de um jogo da memória",
-      "url": "https://github.com/enimatos/jogo-da-memoria/tree/nova-entrega",
+      "url": "https://enimatos.github.io/jogo-da-memoria/",
       "github": true
     },
     {
       "name": "Construindo uma Pokédex com JavaScript",
       "url": "https://github.com/enimatos/js-developer-pokedex",
       "github": true
-    },
-    {
-      "name": "Primeiro Portfólio - Oracle-One",
-      "url": "https://portfolio-nine-bay-27.vercel.app/",
-      "github": false
     },
     {
       "name": "D3c0dif!q - Oracle-One",
@@ -84,7 +79,7 @@
     },
     {
       "name": "Yu-Gi-Oh | Jo-ken-po Edition",
-      "url": "https://github.com/enimatos/js-yugioh-assets/tree/versao-desafio",
+      "url": "https://enimatos.github.io/js-yugioh-assets/",
       "github": true
     }
   ],
